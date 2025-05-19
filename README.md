@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm currently a Undergrad IT student in Griffith University aspiring to be in software development.
+
+Programming languages that I have experience in;
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Debian/Arch linux
+
+Personal mini projects I've currently finished/working on;
+
+- creating a game based on p5.js
+
+As of right now I'm working on my portfolio, to better my skills at programming.
+
 <!--
 **kegs03/kegs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
