@@ -6,6 +6,7 @@ Programming languages that I have experience in;
 
 - Python
 - JavaScript
+- Java
 - HTML
 - CSS
 - Debian/Arch linux
