@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 I'm currently a Undergrad IT student in Griffith University aspiring to be in software development.
 
